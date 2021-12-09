@@ -25,7 +25,7 @@ Features
 Installation
 ------------------------
 ```
-meteor add todda00:friendly-slugs
+meteor add w4pnemsak:friendly-slugs
 ```
 
 Usage
